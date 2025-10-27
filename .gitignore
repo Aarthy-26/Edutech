@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+index.faiss
+index.pkl
+service_account.json
+faiss_index/
